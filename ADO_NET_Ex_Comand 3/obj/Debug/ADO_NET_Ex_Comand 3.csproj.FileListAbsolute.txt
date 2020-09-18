@@ -1,0 +1,7 @@
+C:\Users\sugge\source\repos\ADO_NET_Ex_Comand 3\bin\Debug\ADO_NET_Ex_Comand 3.exe.config
+C:\Users\sugge\source\repos\ADO_NET_Ex_Comand 3\bin\Debug\ADO_NET_Ex_Comand 3.exe
+C:\Users\sugge\source\repos\ADO_NET_Ex_Comand 3\bin\Debug\ADO_NET_Ex_Comand 3.pdb
+C:\Users\sugge\source\repos\ADO_NET_Ex_Comand 3\obj\Debug\ADO_NET_Ex_Comand 3.csprojAssemblyReference.cache
+C:\Users\sugge\source\repos\ADO_NET_Ex_Comand 3\obj\Debug\ADO_NET_Ex_Comand 3.csproj.CoreCompileInputs.cache
+C:\Users\sugge\source\repos\ADO_NET_Ex_Comand 3\obj\Debug\ADO_NET_Ex_Comand 3.exe
+C:\Users\sugge\source\repos\ADO_NET_Ex_Comand 3\obj\Debug\ADO_NET_Ex_Comand 3.pdb
